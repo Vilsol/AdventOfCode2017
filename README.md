@@ -57,3 +57,4 @@ Same challenge done by other users:
 * [devmattrick/AdventOfCode2017](https://github.com/devmattrick/AdventOfCode2017)
 * [DarkSeraphim/Advent-of-Code-2017](https://github.com/DarkSeraphim/Advent-of-Code-2017)
 * [bo0tzz/Advent-of-Code-2017](https://github.com/bo0tzz/Advent-of-Code-2017)
+* [rbrick/Advent-Of-Code-2017](https://github.com/rbrick/Advent-Of-Code-2017)
