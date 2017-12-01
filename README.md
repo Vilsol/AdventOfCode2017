@@ -41,3 +41,4 @@ Same challenge completed by other users:
 * [aaomidi/Advent-of-Code-2017](https://github.com/aaomidi/Advent-of-Code-2017)
 * [nickrobson/adventofcode-2017](https://github.com/nickrobson/adventofcode-2017)
 * [devmattrick/AdventOfCode2017](https://github.com/devmattrick/AdventOfCode2017)
+* [DarkSeraphim/Advent-of-Code-2017](https://github.com/DarkSeraphim/Advent-of-Code-2017)
