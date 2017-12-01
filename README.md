@@ -34,9 +34,23 @@ The challenge will be to complete each day in its own language.
 24. Erlang
 25. OCaml
 
+## Experience levels
+
+**0:** Have never heard of this language before.
+
+**2:** Have heard of it, never used it.
+
+**4:** Limited experience with language.
+
+**6:** Worked on small projects, or small discrete pieces of code.
+
+**8:** Worked on medium projects with others.
+
+**10:** Know the language like the back of my hand.
+
 ## Other repositories
 
-Same challenge completed by other users:
+Same challenge done by other users:
 
 * [aaomidi/Advent-of-Code-2017](https://github.com/aaomidi/Advent-of-Code-2017)
 * [nickrobson/adventofcode-2017](https://github.com/nickrobson/adventofcode-2017)
