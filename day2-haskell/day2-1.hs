@@ -14,4 +14,4 @@ checksum p = sum $ map minMaxDiff p
 main = do
     contents <- readFile "input.txt"
     let spreadsheet = lines contents
-    print $ sum $ map minMaxDiff spreadsheet
+    print $ checksum spreadsheet
