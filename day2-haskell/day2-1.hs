@@ -1,7 +1,7 @@
 import System.IO
 
 stringsToInts :: [String] -> [Int]
-stringsToInts p = map (read::String->Int) p
+stringsToInts p = map read p
 
 minMaxDiff :: String -> Int
 minMaxDiff p =

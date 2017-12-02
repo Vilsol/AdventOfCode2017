@@ -1,7 +1,7 @@
 import System.IO
 
 stringsToInts :: [String] -> [Int]
-stringsToInts p = map (read::String->Int) p
+stringsToInts p = map read p
 
 isDivisibleBy :: Int -> [Int] -> [Int]
 isDivisibleBy p z = filter (\x -> x `mod` p == 0) z
